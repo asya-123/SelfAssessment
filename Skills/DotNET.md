@@ -1,19 +1,19 @@
 ## .NET
 
 - Core Concepts and Internals
-  - Strengths and weaknesses of .NET
-  - Stateful and stateless services
-  - Asynchronous and synchronous programming
-  - Task-based asynchronous pattern
-  - Garbage collection in .NET
-  - .NET runtime versions and support
-  - I/O-bound, CPU-bound tasks
-  - Real-time applications with SignalR
+  - Strengths and weaknesses of .NET +
+  - Stateful and stateless services ~
+  - Asynchronous and synchronous programming ~
+  - Task-based asynchronous pattern ~
+  - Garbage collection in .NET ~
+  - .NET runtime versions and support ~
+  - I/O-bound, CPU-bound tasks ~
+  - Real-time applications with SignalR ~
 - Modularity and Dependencies
-  - .NET assemblies
-  - NuGet package management
-  - Dependency management in .NET
-  - Dependency Injection in .NET
+  - .NET assemblies ~
+  - NuGet package management ~
+  - Dependency management in .NET ~
+  - Dependency Injection in .NET ~
   - Inversion of Control (IoC)
   - IoC containers in .NET
   - Middleware and pipeline configuration
