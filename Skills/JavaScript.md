@@ -1,122 +1,122 @@
 ## JavaScript
 
 - Language
-  - Object *
-  - Function *
-  - Boolean *
-  - Number *
-  - BigInt +
-  - String *
-  - Symbol +
-  - Infinity +
-  - NaN +
-  - undefined +
-  - null +
-  - this ~
-  - instanceof +
-  - ...spread +
-  - ...rest ~
-  - typeof +
-  - Destructuring +
-  - Generators ~
-  - Iterators ~
-  - Async generator ~
-  - Async iterator ~
-  - Chaining *
-  - Optional chaining +
-  - IIFE +
-  - Async IIFE ~
-  - global +
-  - globalThis ~
-  - window ~
-  - Getters and setters *
-  - __proto__ ~
-  - prototype ~
-  - Equality operators *
-  - Logical operators *
-  - Logical Assignment +
-  - Bitwise operators +
-  - Ternary operator +
-  - void ~
-  - yield ~
+  - Object: 🖐️ used
+  - Function: 🖐️ used
+  - Boolean: 🖐️ used
+  - Number: 🖐️ used
+  - BigInt: 🎓 known
+  - String: 🖐️ used
+  - Symbol: 🎓 known
+  - Infinity: 🎓 known
+  - NaN: 🎓 known
+  - undefined: 🎓 known
+  - null: 🎓 known
+  - this: 👂 heard
+  - instanceof: 🎓 known
+  - ...spread: 🎓 known
+  - ...rest: 👂 heard
+  - typeof: 🎓 known
+  - Destructuring: 🎓 known
+  - Generators: 👂 heard
+  - Iterators: 👂 heard
+  - Async generator: 👂 heard
+  - Async iterator: 👂 heard
+  - Chaining: 🖐️ used
+  - Optional chaining: 🎓 known
+  - IIFE: 🎓 known
+  - Async IIFE: 👂 heard
+  - global: 🎓 known
+  - globalThis: 👂 heard
+  - window: 👂 heard
+  - Getters and setters: 🖐️ used
+  - __proto__: 👂 heard
+  - prototype: 👂 heard
+  - Equality operators: 🖐️ used
+  - Logical operators: 🖐️ used
+  - Logical Assignment: 🎓 known
+  - Bitwise operators: 🎓 known
+  - Ternary operator: 🎓 known
+  - void: 👂 heard
+  - yield: 👂 heard
   - await
   - Template literal
-  - Strict mode +
-  - Hoisting ~
-  - delete +
-  - in *
+  - Strict mode: 🎓 known
+  - Hoisting: 👂 heard
+  - delete: 🎓 known
+  - in: 🖐️ used
   - super
   - eval
   - static
-  - Number.parseInt +
-  - Number.parseFloat +
+  - Number.parseInt: 🎓 known
+  - Number.parseFloat: 🎓 known
   - Property descriptors
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields *
-  - Static class fields +
-  - Private class fields +
-  - Private class methods +
+  - Instance class fields: 🖐️ used
+  - Static class fields: 🎓 known
+  - Private class fields: 🎓 known
+  - Private class methods: 🎓 known
 - Statements
-  - if *
-  - while *
-  - do..while *
-  - for *
-  - for..in *
-  - for..of *
-  - for await ~
-  - throw +
-  - break *
-  - continue *
-  - import *
-  - export +
-  - label +
-  - try..catch *
-  - switch +
-  - class *
-  - extends ~
+  - if: 🖐️ used
+  - while: 🖐️ used
+  - do..while: 🖐️ used
+  - for: 🖐️ used
+  - for..in: 🖐️ used
+  - for..of: 🖐️ used
+  - for await: 👂 heard
+  - throw: 🎓 known
+  - break: 🖐️ used
+  - continue: 🖐️ used
+  - import: 🖐️ used
+  - export: 🎓 known
+  - label: 🎓 known
+  - try..catch: 🖐️ used
+  - switch: 🎓 known
+  - class: 🖐️ used
+  - extends: 👂 heard
   - with
-  - new +
+  - new: 🎓 known
 - Functions
-  - Arrow function +
-  - Async function ~
-  - Function declaration *
-  - Function expression +
-  - Default parameters +
-  - Functional object +
+  - Arrow function: 🎓 known
+  - Async function: 👂 heard
+  - Function declaration: 🖐️ used
+  - Function expression: 🎓 known
+  - Default parameters: 🎓 known
+  - Functional object: 🎓 known
   - Function.prototype.call
   - Function.prototype.bind
   - Function.prototype.apply
-  - return *
+  - return: 🖐️ used
 - Data structures
-  - Array *
-  - Map ~
-  - Set *
-  - WeakMap ~
-  - WeakSet ~
+  - Array: 🖐️ used
+  - Map: 👂 heard
+  - Set: 🖐️ used
+  - WeakMap: 👂 heard
+  - WeakSet: 👂 heard
   - Typed arrays
   - Mixins
   - Object.assign
 - Standard classes and namespaces
   - Proxy
   - RegExp
-  - Date ~
-  - Math ~
+  - Date: 👂 heard
+  - Math: 👂 heard
   - Reflect
-  - Error ~
+  - Error: 👂 heard
   - Atomics
   - JSON
   - WeakRef
   - FinalizationRegistry
   - Intl
   - Promise
-  - console *
-  - Timers ~
+  - console: 🖐️ used
+  - Timers: 👂 heard
 - Infrastructure
-  - V8 *
-  - Node.js *
-  - npm *
-  - prettier *
+  - V8: 🖐️ used
+  - Node.js: 🖐️ used
+  - npm: 🖐️ used
+  - prettier: 🖐️ used
   - MDN
   - TC39
